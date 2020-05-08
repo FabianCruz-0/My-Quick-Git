@@ -7,6 +7,7 @@ git remote add origin PATH/TO/REPO. <br>
 git fetch. <br>
 git reset origin/master  # Required when the versioned files existed in path before "git init" of this repo. <br>
 git checkout -t origin/master. <br>
+git push.
 
 <hr>
 
